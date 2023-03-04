@@ -1,4 +1,4 @@
-package com.example.kotlinlanguage.part1
+package com.example.kotlinlanguage.part1_1
 
 /**
  * 참과 거짓을 표현하는 Boolean 타입과 두 표현식의 값을 비교하는 연산자에 대해 배운다.

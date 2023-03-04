@@ -1,4 +1,4 @@
-package com.example.kotlinlanguage.part1
+package com.example.kotlinlanguage.part1_1
 
 /**
  * 여러 개의 문자를 저장할 수 있는 타입에 대해 배운다.

@@ -1,4 +1,4 @@
-package com.example.kotlinlanguage.part1
+package com.example.kotlinlanguage.part1_1
 
 /**
  * '=' 도 연산자임을 이해한다. 배정 연산자와 일반 연산자의 축약형도 알아본다.

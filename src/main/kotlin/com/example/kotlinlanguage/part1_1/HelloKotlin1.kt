@@ -1,4 +1,4 @@
-package com.example.kotlinlanguage.part1
+package com.example.kotlinlanguage.part1_1
 
 /**
  * 메인 함수는 프로그램의 시작점

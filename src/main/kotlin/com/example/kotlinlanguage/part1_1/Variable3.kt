@@ -1,4 +1,4 @@
-package com.example.kotlinlanguage.part1
+package com.example.kotlinlanguage.part1_1
 
 fun main(args: Array<String>): Unit {
 

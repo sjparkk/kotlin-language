@@ -1,4 +1,4 @@
-package com.example.kotlinlanguage.part1
+package com.example.kotlinlanguage.part1_1
 
 /**
  * 조건에 따라 문장을 실행할지 말지 결정하는 if문에 대해 배운다.

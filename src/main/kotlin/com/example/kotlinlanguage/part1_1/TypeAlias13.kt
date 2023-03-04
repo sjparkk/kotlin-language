@@ -1,4 +1,4 @@
-package com.example.kotlinlanguage.part1
+package com.example.kotlinlanguage.part1_1
 
 /**
  * 특정 타입에 또 다른 이름울 붙이는 방법에 대해 알아본다.

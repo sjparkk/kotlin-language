@@ -1,4 +1,4 @@
-package com.example.kotlinlanguage.part1
+package com.example.kotlinlanguage.part1_1
 
 /**
  * if 문의 조건이 false일 때 실행할 문장을 지정하는 방법을 배운다

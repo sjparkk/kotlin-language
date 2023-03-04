@@ -1,4 +1,4 @@
-package com.example.kotlinlanguage.part1
+package com.example.kotlinlanguage.part1_1
 
 /**
  * 리터럴에도 타입이 있고, 표현식의 결과 값도 타입이 있음을 이해

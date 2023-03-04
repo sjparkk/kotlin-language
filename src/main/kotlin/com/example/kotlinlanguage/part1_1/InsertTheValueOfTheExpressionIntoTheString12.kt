@@ -1,4 +1,4 @@
-package com.example.kotlinlanguage.part1
+package com.example.kotlinlanguage.part1_1
 
 /**
  * 문자열 안에 변수나 표현식의 값을 집어넣는 방법을 알아본다.

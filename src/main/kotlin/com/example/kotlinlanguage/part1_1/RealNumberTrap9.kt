@@ -1,4 +1,4 @@
-package com.example.kotlinlanguage.part1
+package com.example.kotlinlanguage.part1_1
 
 /**
  * 실수 타입을 다룰 때 주의해야 할 점을 배운다.
