@@ -9,6 +9,50 @@
 ### Part1
 ***
 - 코틀린 기초 문법 살펴보기 001 - 044
+- 001 Hello, Kotlin!
+- 002 표현식(Expression)
+- 003 변수(Variable)
+- 004 리터럴의타입
+- 005 산술연산자(ArithmeticOperator)+-*/%
+- 006 증감연산자(Increment&DecrementOperator)++ --
+- 007 비트 연산자(BitwiseOperator)andorxorinvshlshrushr
+- 008 정수타입과 실수타입
+- 009 실수 타입의 함정
+- 010 문자 타입
+- 011 문자열(String)
+- 012 문자열 안에 표현식의 값을 집어넣기
+- 013 타입별명(TypeAlias)
+- 014 주석(Comment)
+- 015 배정 연산자(AssignmentOperator)=
+- 016 문장(Statement)
+- 017 비교연산자(ComparisonOperator)==!=><>=<=
+- 018 논리 연산자(Logical Operator) && || !
+- 019 흐름제어-조건문i
+- 020 흐름제어-조건문if-else
+- 021 if와else의중첩
+- 022 if-clse를표현식으로사용하기
+- 023 흐름 제어-조건문 when
+- 024 when을 표현식으로 사용하기
+- 025 흐름제어-반복문while
+- 026 흐름제어-반복문do-while
+- 027 흐름 제어 continue
+- 028 흐름제어break
+- 029 레이블(Label)
+- 030 함수(Function)
+- 031 매개변수(Parameter)와인수(Argument)
+- 032 Unit타입
+- 033 디폴트인수
+- 034 가변인수
+- 035 함수오버로딩(Function Overloading)
+- 036 지역변수(Local Variable)와전역변수(Global Variable)
+- 037 지역 변수와 전역 변수의 이름이 중복될 때
+- 038 지역 변수와 다른 함수의 지역 변수가 중복될 때
+- 039 지역 함수(Local Function)
+- 040 메모리의 스택(Stack) 영역
+- 041 소스파일여러개로분리하기
+- 042 패키지(Package)
+- 043 다른 패키지의 함수 호출하기
+- 044 import
 
 ### Part2
 ***
