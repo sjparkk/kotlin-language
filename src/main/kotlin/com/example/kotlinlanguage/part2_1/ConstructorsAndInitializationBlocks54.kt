@@ -9,7 +9,7 @@ package com.example.kotlinlanguage.part2_1
  * 생성자는 객체를 초기화하는 특수 멤버 함수이다.
  */
 //이때 constructor 키워드는 생략 가능하다. 추가적으로 생성자도 함수의 일종이므로 디폴트 인수와 가변 인수를 사용할 수 있다.
-class Person constructor(name: String, age: Int) {
+open class Person constructor(name: String, age: Int) {
     val name: String
     val age: Int
 
