@@ -92,3 +92,15 @@
 - 077 Not-null 단정 연산자(Not-null Assertion Operator) !!
 - 078 엘비스 연산자(Elvis Operator) ?:
 - 079 스마트 캐스팅
+- 080 is 연산자 
+- 081 as 연산자와 다운캐스팅
+- 082 접근 지정자(Access Modifier)
+- 083 접근 지정자: private
+- 084 접근 지정자: protected
+- 085 접근 지정자 오버라이딩
+- 086 확장 함수 (Extension Function)
+- 087 확장 프로퍼티 (Extension Property)
+
+### Part3 (코틀린 고급 문법 살펴보기)
+***
+
