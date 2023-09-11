@@ -9,10 +9,10 @@ import java.io.Serializable
  */
 
 //Pair 클래스를 이용하면 두 변수를 하나로 묶을 수 있다.
-data class Pair<out A, out B>(
-    val first: A,
-    val second: B
-): Serializable
+//data class Pair<out A, out B>(
+//    val first: A,
+//    val second: B
+//): Serializable
 
 //Pair 클래스는 제네릭을 이용하여 두 가지 타입의 값을 보관한다.
 fun divide(a: Int, b: Int): Pair<Int, Int> = Pair(a / b, a % b)
